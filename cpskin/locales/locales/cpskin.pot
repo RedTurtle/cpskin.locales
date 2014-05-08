@@ -1,42 +1,65 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-05-06 11:42+0000\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2014-05-08 09:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"Language-Code: fr\n"
-"Language-Name: French\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: cpskin\n"
-"Language: \n"
-"X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
-#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+#: ./cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Back to created"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+#: ./cpskin.slider/cpskin/slider/portlets/slider_collection.py:36
+msgid "Collection portlet with slider view"
+msgstr ""
+
+#: ./cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Created"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+#: ./cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Publish and hide"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+#: ./cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Publish and show"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+#: ./cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Published and hidden"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+#: ./cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Published and shown"
+msgstr ""
+
+#. Default: "Add 4th level navigation"
+#: ./cpskin.menu/cpskin/menu/profiles/default/actions.xml
+msgid "action_add_forth_level"
+msgstr ""
+
+#. Default: "Remove the 4th level navigation"
+#: ./cpskin.menu/cpskin/menu/profiles/default/actions.xml
+msgid "action_remove_forth_level"
+msgstr ""
+
+#: ./cpskin.slider/cpskin/slider/portlets/slider_collection.py:37
+msgid "add a collection portlet with slider view"
+msgstr ""
+
+#: ./cpskin.slider/cpskin/slider/portlets/slider_collection.py:48
+msgid "edit a collection portlet with slider view"
 msgstr ""
 
